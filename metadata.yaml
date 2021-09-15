@@ -1,0 +1,38 @@
+_repo: Little-Rifle-The-Boy-Trapper-or-The-Young-Fur-Hunters_65923
+_version: 0.0.1
+alternative_title: Little Rifle, the Boy Trapper
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Adams, J. F. C. (James Fenimore Cooper)
+    - Jayne, R. H.
+    - Adams, Capt. "Bruin"
+    - LaSalle, Charles E.
+    - Hawthorne, R. M.
+    - Ellis, E. S. (Edward Sylvester)
+    - Adams, James Fenimore Cooper
+    - Randolph, Geoffrey
+    - Muller, Billex
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+    wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
+description: ''
+gutenberg_issued: '2021-07-26'
+identifiers:
+  gutenberg: '65923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beadle's Pocket Novels Vol. VI, No. 74
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Trappers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Little Rifle; or, The Young Fur Hunters
+url: http://www.gutenberg.org/ebooks/65923
